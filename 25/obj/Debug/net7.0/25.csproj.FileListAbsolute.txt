@@ -1,0 +1,15 @@
+D:\05.02.2023C#4\25\bin\Debug\net7.0\25.exe
+D:\05.02.2023C#4\25\bin\Debug\net7.0\25.deps.json
+D:\05.02.2023C#4\25\bin\Debug\net7.0\25.runtimeconfig.json
+D:\05.02.2023C#4\25\bin\Debug\net7.0\25.dll
+D:\05.02.2023C#4\25\bin\Debug\net7.0\25.pdb
+D:\05.02.2023C#4\25\obj\Debug\net7.0\25.csproj.AssemblyReference.cache
+D:\05.02.2023C#4\25\obj\Debug\net7.0\25.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.02.2023C#4\25\obj\Debug\net7.0\25.AssemblyInfoInputs.cache
+D:\05.02.2023C#4\25\obj\Debug\net7.0\25.AssemblyInfo.cs
+D:\05.02.2023C#4\25\obj\Debug\net7.0\25.csproj.CoreCompileInputs.cache
+D:\05.02.2023C#4\25\obj\Debug\net7.0\25.dll
+D:\05.02.2023C#4\25\obj\Debug\net7.0\refint\25.dll
+D:\05.02.2023C#4\25\obj\Debug\net7.0\25.pdb
+D:\05.02.2023C#4\25\obj\Debug\net7.0\25.genruntimeconfig.cache
+D:\05.02.2023C#4\25\obj\Debug\net7.0\ref\25.dll
